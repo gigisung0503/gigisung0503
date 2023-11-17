@@ -6,7 +6,7 @@ My name is Gigi Sung (she/her), and I'm a spatial data analyst with a keen inter
 
 - Dive into "transportation" for a curated collection of summaries and case studies in transportation economics and policy.
 - Explore "arcgis_python" to see my python scripts automating spatial operations in Arcgis Pro.
-- See "undatahon" for a remote sensing project in North Korea. This will be developed into "post-disaster".
+- See "north_korea_datadrought" for a remote sensing project in North Korea. This will be developed into "post-disaster".
 - Peek into "sandbox" for an eclectic mix of side projects in their nascent stages.
 - "spatial_statics" coming up.
 - The others are forked from insipring projects.  
