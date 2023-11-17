@@ -5,9 +5,11 @@ My name is Gigi Sung (she/her), and I'm a spatial data analyst with a keen inter
 - Recently, I've become fascinated by satellite imagery and its transformative role in strategic planning. A big shout-out to Dr. Qiusheng Wu for granting access to incredible tools like geemap and the Segment Anything Model (SAM). ~~Check out related insights at "earth_observation."~~
 
 - Dive into "transportation" for a curated collection of summaries and case studies in transportation economics and policy.
-- Explore "climate_index" to see my previous work on developing climate risk indices.
-- See "undatahon" for a remote sensing project in North Korea. This will be developed into "post-disaster."
+- Explore "arcgis_python" to see my python scripts automating spatial operations in Arcgis Pro.
+- See "undatahon" for a remote sensing project in North Korea. This will be developed into "post-disaster".
 - Peek into "sandbox" for an eclectic mix of side projects in their nascent stages.
+- "spatial_statics" coming up.
+- The others are forked from insipring projects.  
 
 I try to maintain clarity and order here, but should you encounter any chaos, please extend some grace to this diligent grad student's workspace.
 
