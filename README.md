@@ -2,6 +2,8 @@
 
 My name is Gigi Sung (she/her), and I'm a spatial data analyst with a keen interest in the art of mapping anything and everything.
 
+Please visit my github page for a curated projects: [gigisung.github.io](gigisung.github.io)
+
 - Recently, I've become fascinated by satellite imagery and its transformative role in strategic planning. A big shout-out to Dr. Qiusheng Wu for granting access to incredible tools like geemap and the Segment Anything Model (SAM). ~~Check out related insights at "earth_observation."~~
 
 - Dive into "transportation" for a curated collection of summaries and case studies in transportation economics and policy.
